@@ -1,0 +1,2 @@
+Install VC++ Redistributable 2015 for windows 7 x64
+https://github.com/cmderdev/cmder/issues/501
