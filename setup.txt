@@ -1,2 +1,11 @@
 Install VC++ Redistributable 2015 for windows 7 x64
 https://github.com/cmderdev/cmder/issues/501
+
+Set in context menu
+cmder.exe /REGISTER ALL
+
+Remove from context menu
+cmder.exe /UNREGISTER ALL
+
+Set cmd as startup prompt
+Settings -> Startup -> {cmd}
