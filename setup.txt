@@ -9,3 +9,6 @@ cmder.exe /UNREGISTER ALL
 
 Set cmd as startup prompt
 Settings -> Startup -> {cmd}
+
+Disable Quake Global hotkey
+Settings -> Keys & Macro -> Global
