@@ -12,3 +12,6 @@ Settings -> Startup -> {cmd}
 
 Disable Quake Global hotkey
 Settings -> Keys & Macro -> Global
+
+Change default Folder to Desktop
+Settings -> Startup -> tasks -> {cmd} -> %USERPROFILE%\Desktop
